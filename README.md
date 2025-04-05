@@ -1,9 +1,25 @@
-## Hi there 👋
+## Hi There!
 
-My name is Sam, and I'm taking my first (baby) steps into a career in software development!
+Passionate about building productivity tools that simplify day-to-day tasks. Currently developing a web scraper with templating functionality and always looking for ways to enhance my tools. Eager to collaborate with others on this project or similar tools.
 
+### Tech Stack
+
+**Frontend**: TypeScript, React, React Native, Three.js, WebGL, React Motion
+
+**Backend**: Node.js, Express, Flask, Golang (new learner)
+
+**Databases**: MySQL, SQLite
+
+**Tools & Scripting**: Bash scripting, VSCode, Vim (new learner)
+  
 ### Current Projects
 
-* 🔭 I’m currently working on building a Chrome Extension to assist language learners.
-* 🌱 I’m currently learning TypeScript, NodeJs, and PySide6.
-* 📫 How to reach me: **email**: *zctlsab@gmail.com*
+- Full-stack langauge learning application on Android (React-Native)
+- Physics engine and browser-based 3D game (TypeScript, WebGL).
+- Instant messaging CLI app (Golang, TView)
+
+### Love to Learn More About
+- C++ and OpenGL
+- Contributing to open-source productivity tools
+- Low-level and embedded hardware programming
+
