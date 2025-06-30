@@ -4,13 +4,13 @@ Passionate about building productivity tools that simplify day-to-day tasks. Cur
 
 ### Tech Stack
 
-**Frontend**: TypeScript, React, React Native, Three.js, WebGL, React Motion
+**Frontend**: TypeScript, React, Next.js, React Native, Flutter
 
 **Backend**: Go, Node.js, Express, Flask
 
-**Databases**: MySQL, SQLite
+**Databases**: MySQL, SQLite, MongoDB
 
-**Tools & Scripting**: Bash scripting, VSCode, Vim (new learner)
+**Tools & Scripting**: Bash scripting, VSCode
   
 ### Current Projects
 
